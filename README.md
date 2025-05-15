@@ -22,4 +22,4 @@ External Features
     Ability To Exit Program
     When selecting game, loops until exit
 
-    Made as Year 1, Sem 1 Project for CPS109.
+Made as Year 1, Sem 1 Project for CPS109.
